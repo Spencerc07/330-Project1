@@ -68,7 +68,11 @@ Features/Requirements
 
 This is very preliminary...
 
-Functional requirements
+
+
+Functional requirements:
+
+
 
 Be able to report of all notes containing one or more mentions
 
